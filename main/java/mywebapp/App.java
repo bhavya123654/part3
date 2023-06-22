@@ -3,7 +3,7 @@ import java.time.LocalTime;
 
 public class App {
 	public static void main(String[] args) {
-        String name = "John"; // replace with your own name or use user input
+        String name = "Bhavitha Penaka"; // replace with your own name or use user input
         LocalTime now = LocalTime.now();
         String message;
         
